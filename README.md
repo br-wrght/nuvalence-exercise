@@ -15,3 +15,33 @@ Within the RectanglesUtilities utility class, there are the following algorithms
     - Rectangles intersect when one or more intersecting lines occur.
   ![Image depicting intersections in rectangles](https://raw.githubusercontent.com/br-wrght/nuvalence-exercise/master/docs/images/intersection.png)
 
+## Building the Project
+- macOS:
+  - ``./gradlew build``
+- Windows:
+  - ``./gradlew.bat build`` 
+
+## Testing the Algorithms
+- macOS:
+  - ``./gradlew test -i``
+- Windows:
+  - ``./gradlew.bat test -i`` 
+
+## Test Cases
+The unit test class ``RectangleUtilitiesTest`` tests the following test cases to certify correctness of the ``RectangleUtilities`` class:
+
+- **Intersections**
+  - Vertical
+  - Horizontal
+  - Double Vertical
+  - Double Horizontal
+  - None
+- **Containment**
+  - Successful
+  - None
+- **Adjacency**
+  - Vertical
+  - Horizontal
+  - None
+
+The unit test results were generated and can be <a href="" target="_blank">viewed here</a>. 
