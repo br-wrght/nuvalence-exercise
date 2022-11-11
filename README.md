@@ -8,14 +8,14 @@ Within the RectanglesUtilities utility class, there are the following algorithms
 - **Rectangle Adjacency**
     - Rectangles are considered adjacent if they share at lease one portion of one side.
       
-  ![Image depicting adjacency in rectangles](https://github.com/br-wrght/nuvalence-exercise/docs/images/adjacency.png)
+  ![Image depicting adjacency in rectangles](https://raw.githubusercontent.com/br-wrght/nuvalence-exercise/master/docs/images/adjacency.png)
 - **Rectangle Containment**
     - This algorithm will determine if one rectangle is wholly contained within another rectangle.
 
-  ![Image depicting containment in rectangles](https://github.com/br-wrght/nuvalence-exercise/docs/images/containment.png)
+  ![Image depicting containment in rectangles](https://raw.githubusercontent.com/br-wrght/nuvalence-exercise/master/docs/images/containment.png)
 - **Rectangle Intersection**
     - Rectangles intersect when one or more intersecting lines occur.
       
-![Image depicting intersections in rectangles](https://github.com/br-wrght/nuvalence-exercise/docs/images/intersection.png)
+![Image depicting intersections in rectangles](https://raw.githubusercontent.com/br-wrght/nuvalence-exercise/master/docs/images/intersection.png)
 
 
