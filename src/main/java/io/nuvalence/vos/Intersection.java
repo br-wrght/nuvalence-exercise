@@ -1,6 +1,4 @@
-package io.nuvalence.pojos;
-
-import java.awt.*;
+package io.nuvalence.vos;
 
 /**
  * Title: Intersection

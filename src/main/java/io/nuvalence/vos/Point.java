@@ -1,4 +1,4 @@
-package io.nuvalence.pojos;
+package io.nuvalence.vos;
 
 /**
  * Title: Point

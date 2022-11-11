@@ -1,14 +1,10 @@
 package io.nuvalence.utilities;
 
-import io.nuvalence.pojos.Intersection;
-import io.nuvalence.pojos.Point;
-import io.nuvalence.pojos.Rectangle;
+import io.nuvalence.vos.Point;
+import io.nuvalence.vos.Rectangle;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.w3c.dom.css.Rect;
-
-import java.awt.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
