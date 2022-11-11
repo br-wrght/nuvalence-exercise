@@ -15,13 +15,21 @@ Within the RectanglesUtilities utility class, there are the following algorithms
     - Rectangles intersect when one or more intersecting lines occur.
   ![Image depicting intersections in rectangles](https://raw.githubusercontent.com/br-wrght/nuvalence-exercise/master/docs/images/intersection.png)
 
+## Dependencies
+- Java JDK 8 or greater
+- Gradle
+
 ## Building the Project
+- Linux:
+  - ``gradle build`` (assumes gradle in Path)
 - macOS:
   - ``./gradlew build``
 - Windows:
   - ``./gradlew.bat build`` 
 
 ## Testing the Algorithms
+- Linux:
+  - ``gradle test -i`` (assumes gradle in Path)
 - macOS:
   - ``./gradlew test -i``
 - Windows:
