@@ -1,5 +1,5 @@
 <style type="text/css">
-.readme-material img{max-width:500px}
+.readme-material img{max-width:500px !important}
 </style>
 <div class="readme-material">
 # Rectangle Algorithms for Nuvalence Interview
