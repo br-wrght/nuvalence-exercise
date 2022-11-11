@@ -44,4 +44,4 @@ The unit test class ``RectangleUtilitiesTest`` tests the following test cases to
   - Horizontal
   - None
 
-The unit test results were generated and can be <a href="" target="_blank">viewed here</a>. 
+The unit test results were generated and can be <a href="https://htmlpreview.github.io/?https://github.com/br-wrght/nuvalence-exercise/blob/master/docs/unit-test-report/index.html" target="_blank">viewed here</a>. 
