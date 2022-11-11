@@ -41,18 +41,10 @@ public class RectangleUtilities {
         int oneY1 = one.getBottomRight().y;
         int twoX1 = two.getBottomLeft().x;
         int twoY1 = two.getBottomRight().y;
-
-        int oneX2 = oneX1;
-        oneX2 += one.getWidth();
-
-        int oneY2 = oneY1;
-        oneY2 += one.getHeight();
-
-        int twoX2 = twoX1;
-        twoX2 += two.getWidth();
-
-        int twoY2 = twoY1;
-        twoY2 += two.getHeight();
+        int oneX2 = one.getBottomRight().x;
+        int oneY2 = one.getTopRight().y;
+        int twoX2 = two.getBottomRight().x;
+        int twoY2 = two.getTopRight().y;
 
         if (oneX1 < twoX1) oneX1 = twoX1;
         if (oneY1 < twoY1) oneY1 = twoY1;
